@@ -1,4 +1,4 @@
-# Conversational AI Avatars Project for Chef's Corner
+# AI Avatar for Chef's Corner
 
 ## Requirements
 
