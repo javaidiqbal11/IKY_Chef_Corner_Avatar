@@ -1,5 +1,9 @@
 # AI Avatar for Chef's Corner
 
+[HeyGen SDK](https://github.com/HeyGen-Official/StreamingAvatarSDK)
+
+
+---
 ## Requirements
 
 ### Project Scope
