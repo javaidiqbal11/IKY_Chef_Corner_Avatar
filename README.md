@@ -1,8 +1,9 @@
 # AI Avatar for Chef's Corner
 
 ## Tools and Techs
-[HeyGen SDK](https://github.com/HeyGen-Official/StreamingAvatarSDK)
-
+- [HeyGen SDK](https://github.com/HeyGen-Official/StreamingAvatarSDK)
+- [OpenAi API Key](https://platform.openai.com/api-keys)
+- [PineCone Dataset](https://app.pinecone.io/organizations/-O4Ky7q8QIbeyeao7-QE/projects/625912a4-2bcd-47be-890f-4cb0cd98e397/indexes/test/browser)
 
 ---
 ## Requirements
