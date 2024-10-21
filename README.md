@@ -38,6 +38,13 @@ project id
 
 WP --- https://iky.eu/wp-admin  // webmaster@iky.eu // UqJ3V#FYl)PzCegcgakymLja
 
-SFTP main --- 185.197.195.151 // root // 09!abv34Z1```
+SFTP main --- 185.197.195.151 // root // 09!abv34Z1
+
+HeyGen-------
+https://app.heygen.com
+marketing@iky.eu
+7Zfjp_3EPDyMCuz
+```
+
 
 
