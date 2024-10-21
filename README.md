@@ -1,9 +1,10 @@
 Note:
 
-- Please design the framework for whole project
-- Integerate PineCone dataset and test
-- Integerate the OpenAI API 
-- Wait for the HeyGen access till client get form the HeyGen
+- Design the framework for whole project--- Done
+- Integerate PineCone dataset and test---Done
+- Integerate the OpenAI API ---- Done
+- Wait for the HeyGen access till client get form the HeyGen--
+- Test the Flask App with HeyGen Trial Token to complete POC
 
   
 
