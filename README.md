@@ -18,7 +18,7 @@ https://labs.heygen.com/interactive-avatar
 
 ### Keys
 ```text
-OPENAI AI Avatars Secret Key --- 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
+**OPENAI AI Avatars Secret Key** --- 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
 
 HeyGen --- not available in free version
 
