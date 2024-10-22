@@ -1,9 +1,20 @@
 ### Installation
+Create Virtual Environment
+```shell
+python venv -m vir_env
+```
+Activate Virtual Environment
+```shell
+vir_env/Scripts/activate
+```
+
 Install packages in Python 3.10
 ```shell
 pip install -r requirements.txt
 ```
-
+```text
+cd flaskapp
+```
 Now run the flask app to test avatar
 ```shell
 python app.py
