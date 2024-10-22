@@ -13,7 +13,7 @@ Install packages in Python 3.10
 pip install -r requirements.txt
 ```
 ```text
-cd flaskapp
+cd basic-flask-template
 ```
 Now run the flask app to test avatar
 ```shell
