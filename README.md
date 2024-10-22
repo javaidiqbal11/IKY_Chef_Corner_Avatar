@@ -1,9 +1,21 @@
+### Installation
+Install packages in Python 3.10
+```shell
+pip install -r requirements.txt
+```
+
+Now run the flask app to test avatar
+```shell
+python app.py
+```
+
+
 Note:
 
 - Design the framework for whole project--- Done
 - Integerate PineCone dataset and test---Done
 - Integerate the OpenAI API ---- Done
-- Wait for the HeyGen access till client get form the HeyGen--
+- Wait for the HeyGen access till client get form the HeyGen---Wait
 - Test the Flask App with HeyGen Trial Token to complete POC
 
   
@@ -36,15 +48,8 @@ https://ikyeu-e0d3co2.svc.aped-4627-b74a.pinecone.io
 project id
 8b453c19-3556-4655-bc64-13ea7a03e571
 
-WP --- https://iky.eu/wp-admin  // webmaster@iky.eu // UqJ3V#FYl)PzCegcgakymLja
+WordPress --- https://iky.eu/wp-admin  // webmaster@iky.eu // UqJ3V#FYl)PzCegcgakymLja
 
-SFTP main --- 185.197.195.151 // root // 09!abv34Z1
-
-HeyGen-------
-https://app.heygen.com
-marketing@iky.eu
-7Zfjp_3EPDyMCuz
-```
-
+SFTP main --- 185.197.195.151 // root // 09!abv34Z1```
 
 
