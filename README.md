@@ -22,14 +22,14 @@ python app.py
 
 
 Note:
-
 - Design the framework for whole project--- Done
-- Integerate PineCone dataset and test---Done
+- PineCone dataset accessed and tested---Done
 - Integerate the OpenAI API ---- Done
-- Wait for the HeyGen access till client get form the HeyGen---Wait
-- Test the Flask App with HeyGen Trial Token to complete POC
+- HeyGen login successfully and waiting for the credits in account---Wait
+- Tested the Flask App with HeyGen Trial Token to complete POC --- Done
+- Working to build the RAG for retreiving recipies data from pinecone --- In-Progress
+- Working on the GPT Integeration module --- In-Progress 
 
-  
 
 ### Heygen SDK
 
