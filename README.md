@@ -1,21 +1,24 @@
 ### Installation
-Create Virtual Environment
+**Setup** [Python 3.10](https://www.python.org/downloads/release/python-3100/)
+
+1- Create Virtual Environment
 ```shell
 python venv -m vir_env
 ```
-Activate Virtual Environment
+2- Activate Virtual Environment
 ```shell
 vir_env/Scripts/activate
 ```
 
-Install packages in Python 3.10
+3- Install packages in Python 3.10
 ```shell
 pip install -r requirements.txt
 ```
+4- Chnage Directory 
 ```text
 cd basic-flask-template
 ```
-Now run the flask app to test avatar
+5- Now run the flask app to test avatar
 ```shell
 python app.py
 ```
