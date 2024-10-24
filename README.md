@@ -24,7 +24,7 @@ python app.py
 ```
 
 
-Note:
+**Notes:**
 - Design the framework for whole project--- Done
 - PineCone dataset accessed and tested---Done
 - Integerate the OpenAI API ---- Done
@@ -33,7 +33,7 @@ Note:
 - Working to build the RAG for retreiving recipies data from pinecone --- In-Progress
 - Working on the GPT Integeration module --- In-Progress
 
-Major Tasks:
+**Major Tasks:**
 - Customize chef corner avatar from HeyGen
 - RAG to retrive the recpies from Pinecone
 - Conversational logic from OpenAi 
