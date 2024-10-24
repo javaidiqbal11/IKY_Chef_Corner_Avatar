@@ -31,7 +31,12 @@ Note:
 - HeyGen login successfully and waiting for the credits in account---Wait
 - Tested the Flask App with HeyGen Trial Token to complete POC --- Done
 - Working to build the RAG for retreiving recipies data from pinecone --- In-Progress
-- Working on the GPT Integeration module --- In-Progress 
+- Working on the GPT Integeration module --- In-Progress
+
+Major Tasks:
+- Customize chef corner avatar from HeyGen
+- RAG to retrive the recpies from Pinecone
+- Conversational logic from OpenAi 
 
 
 ### Heygen SDK
