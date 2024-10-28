@@ -25,3 +25,4 @@ query_results2 = index.query(
 
 print(query_results1)
 print(query_results2)
+print(index.describe_index_stats())
