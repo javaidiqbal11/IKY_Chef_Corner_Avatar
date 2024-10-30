@@ -25,8 +25,8 @@ python app.py
 
 
 **Notes:**
-Design the framework for whole project--- Done
-PineCone dataset accessed and tested---Done
+- Design the framework for whole project--- Done
+- PineCone dataset accessed and tested---Done
 Integerate the OpenAI API ---- Done
 HeyGen login successfully and waiting for the credits in account---Wait
 Tested the Flask App with HeyGen Trial Token to complete POC --- Done
