@@ -28,9 +28,9 @@ python app.py
 - Design the framework for whole project--- Done
 - PineCone dataset accessed and tested---Done
 - Integerate the OpenAI API ---- Done
-- HeyGen login successfully and waiting for the credits in account---Wait
+- HeyGen login successfully and accessed---Done
 - Tested the Flask App with HeyGen Trial Token to complete POC --- Done
-- Working to build the RAG for retreiving recipies data from pinecone --- In-Progress
+- Working to build the RAG for retreiving recipies data from pinecone --- Done (knowledge) 
 - Working on the GPT Integeration module --- In-Progress
 - Currently custom llm api endpoint not possible with heygen.
 - It uses webrtc to their server to fetch the stream events(audio) and uses stream event to handle speech on their end.
