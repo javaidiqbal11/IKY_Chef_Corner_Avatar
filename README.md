@@ -31,7 +31,7 @@ python app.py
 - HeyGen login successfully and accessed---Done
 - Tested the Flask App with HeyGen Trial Token to complete POC --- Done
 - Working to build the RAG for retreiving recipies data from pinecone --- Done (knowledge) 
-- Working on the GPT Integeration module --- In-Progress
+- Working on the GPT Integeration module --- Done
 - Currently custom llm api endpoint not possible with heygen.
 - It uses webrtc to their server to fetch the stream events(audio) and uses stream event to handle speech on their end.
 - GPT-4o is being used for interactive avatar when we provide the api key.
