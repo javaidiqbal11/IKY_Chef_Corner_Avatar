@@ -32,9 +32,9 @@ python app.py
 - Tested the Flask App with HeyGen Trial Token to complete POC --- Done
 - Working to build the RAG for retreiving recipies data from pinecone --- Done (knowledge) 
 - Working on the GPT Integeration module --- Done
-- Currently custom llm api endpoint not possible with heygen.
+- Currently custom llm api endpoint not possible with heygen. ..... R&D 
 - It uses webrtc to their server to fetch the stream events(audio) and uses stream event to handle speech on their end.
-- GPT-4o is being used for interactive avatar when we provide the api key.
+- GPT-4o is being used for interactive avatar when we provide the api key... R&D 
 - The solution for now is to use the default web ui of heygen to add knowledge base and prompt strucutre to use the interactive avatar. but it has limit of knowledge base size.
 
 **Major Tasks:**
