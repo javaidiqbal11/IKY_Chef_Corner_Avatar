@@ -1,47 +1,29 @@
 ### Installation
-**Setup** [Python 3.10](https://www.python.org/downloads/release/python-3100/)
-
-1- Create Virtual Environment
-```shell
-python venv -m vir_env
-```
-2- Activate Virtual Environment
-```shell
-vir_env/Scripts/activate
-```
-
-3- Install packages in Python 3.10
+Install packages in Python 3.10
 ```shell
 pip install -r requirements.txt
 ```
-4- Chnage Directory 
-```text
-cd basic-flask-template
-```
-5- Now run the flask app to test avatar
+
+Now run the flask app to test avatar
 ```shell
 python app.py
 ```
 
 
-**Notes:**
+Note:
 - Design the framework for whole project--- Done
 - PineCone dataset accessed and tested---Done
 - Integerate the OpenAI API ---- Done
-- HeyGen login successfully and accessed---Done
+- HeyGen login successfully and waiting for the credits in account---Wait
 - Tested the Flask App with HeyGen Trial Token to complete POC --- Done
-- Working to build the RAG for retreiving recipies data from pinecone --- Done (knowledge Base Approach) 
-- Working on the GPT Integeration module --- Done
-- Currently custom llm api endpoint not possible with heygen. ..... R&D 
+- Working to build the RAG for retreiving recipies data from pinecone --- In-Progress
+- Working on the GPT Integeration module --- In-Progress 
+- Currently custom llm api endpoint not possible with heygen.
 - It uses webrtc to their server to fetch the stream events(audio) and uses stream event to handle speech on their end.
-- GPT-4o is being used for interactive avatar when we provide the api key... Done
-- The solution for now is to use the default web ui of heygen to add knowledge base and prompt strucutre to use the interactive avatar. but it has limit of knowledge base size.
-
-**Major Tasks:**
-- Customize chef corner avatar from HeyGen
-- RAG to retrive the recpies from Pinecone
-- Conversational logic from OpenAi 
-
+- GPT-4o is being used for interactive avatar when we provide the api key.
+- The solution for now is to use the default web ui of heygen to add knowledge base and prompt strucutre to use the interactive avatar.
+but it has limit of knowledge base size. 
+  
 
 ### Heygen SDK
 
@@ -50,13 +32,15 @@ https://github.com/HeyGen-Official/StreamingAvatarSDK
 https://github.com/HeyGen-Official/InteractiveAvatarNextJSDemo
 
 https://labs.heygen.com/interactive-avatar
-
+https://docs.google.com/document/d/1v7VXisC4FvhdEpD_Wj6v79LxoW5FaXVWdMLR-_wzkYU/edit?tab=t.0
 
 ### Keys
 ```text
 OPENAI AI Avatars Secret Key --- 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
 
-HeyGen --- not available in free version
+heygen credentials
+marketing@iky.eu
+7Zfjp_3EPDyMCuz
 
 Pinecone access --- marketing@iky.eu // IKnowYou@2024pin
 database index
@@ -73,6 +57,8 @@ project id
 
 WordPress --- https://iky.eu/wp-admin  // webmaster@iky.eu // UqJ3V#FYl)PzCegcgakymLja
 
-SFTP main --- 185.197.195.151 // root // 09!abv34Z1```
+SFTP main --- 185.197.195.151 // root // 09!abv34Z1
+```
 
-
+### Knowledge Base Generation
+I have added the script to generate the Knowledge Base from Pinecone for HeyGen.
