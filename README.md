@@ -22,7 +22,8 @@ Note:
 - It uses webrtc to their server to fetch the stream events(audio) and uses stream event to handle speech on their end.
 - GPT-4o is being used for interactive avatar when we provide the api key.
 - The solution for now is to use the default web ui of heygen to add knowledge base and prompt strucutre to use the interactive avatar.
-but it has limit of knowledge base size. 
+but it has limit of knowledge base size.
+- Spanish Avatar in the HeyGen --- In-Progress
   
 
 ### Heygen SDK
