@@ -1,6 +1,6 @@
 # IKY Chef Corner Avatar
 
-### Installation
+## Setup
 Install packages in Python 3.10
 ```shell
 pip install -r requirements.txt
