@@ -16,7 +16,7 @@ Note:
 - Design the framework for whole project--- Done
 - PineCone dataset accessed and tested---Done
 - Integerate the OpenAI API ---- Done
-- HeyGen login successfully and waiting for the credits in account---Wait
+- HeyGen login successfully and waiting for the credits in account---Done
 - Tested the Flask App with HeyGen Trial Token to complete POC --- Done
 - Working to build the RAG for retreiving recipies data from pinecone --- In-Progress
 - Working on the GPT Integeration module --- In-Progress 
