@@ -28,7 +28,7 @@ but it has limit of knowledge base size.
 - Spanish Avatar in the HeyGen --- In-Progress
 
 ## Updates and Delivered 
-Design the framework for whole project--- Done
+- Design the framework for whole project--- Done
 PineCone dataset accessed and tested---Done
 Integerate the OpenAI API ---- Done
 HeyGen login successfully and waiting for the credits in account---Done
