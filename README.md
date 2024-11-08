@@ -12,7 +12,7 @@ python app.py
 ```
 
 
-Note:
+## Queries with developer
 - Design the framework for whole project--- Done
 - PineCone dataset accessed and tested---Done
 - Integerate the OpenAI API ---- Done
@@ -20,7 +20,7 @@ Note:
 - Tested the Flask App with HeyGen Trial Token to complete POC --- Done
 - Working to build the RAG for retreiving recipies data from pinecone --- Knowldge Based --- Done
 - Working on the GPT Integeration module --- Done
-- Currently custom llm api endpoint not possible with heygen.
+- Currently custom llm api endpoint not possible with h eygen.
 - It uses webrtc to their server to fetch the stream events(audio) and uses stream event to handle speech on their end.
 - GPT-4o is being used for interactive avatar when we provide the api key.
 - The solution for now is to use the default web ui of heygen to add knowledge base and prompt strucutre to use the interactive avatar.
