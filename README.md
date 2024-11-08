@@ -26,6 +26,15 @@ Note:
 - The solution for now is to use the default web ui of heygen to add knowledge base and prompt strucutre to use the interactive avatar.
 but it has limit of knowledge base size.
 - Spanish Avatar in the HeyGen --- In-Progress
+
+## Updates and Delivered 
+Design the framework for whole project--- Done
+PineCone dataset accessed and tested---Done
+Integerate the OpenAI API ---- Done
+HeyGen login successfully and waiting for the credits in account---Wait
+Tested the Flask App with HeyGen Trial Token to complete POC --- Done
+Working to build the RAG for retreiving recipies data from pinecone --- In-Progress
+Working on the GPT Integeration module --- In-Progress
   
 
 ### Heygen SDK
