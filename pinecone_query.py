@@ -6,7 +6,7 @@ import openai
 pc = Pinecone(api_key='c8179f79-5b6b-4ff1-bcf7-1163df2f9055')
 
 # get API key from top-right dropdown on OpenAI website
-openai.api_key = "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"
+openai.api_key = ""
 # Create a serverless index
 index_name = "ikyeu"
 limit = 3750
