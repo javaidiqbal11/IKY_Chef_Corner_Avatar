@@ -12,29 +12,29 @@ python app.py
 ```
 
 
-## Queries with developer
-- Design the framework for whole project--- Done
-- PineCone dataset accessed and tested---Done
-- Integerate the OpenAI API ---- Done
-- HeyGen login successfully and waiting for the credits in account---Done
-- Tested the Flask App with HeyGen Trial Token to complete POC --- Done
-- Working to build the RAG for retreiving recipies data from pinecone --- Knowldge Based --- Done
-- Working on the GPT Integeration module --- Done
+## Key Points
+- Design the framework for whole project
+- PineCone dataset accessed and tested
+- Integerate the OpenAI API 
+- HeyGen login successfully and waiting for the credits in account
+- Tested the Flask App with HeyGen Trial Token to complete POC 
+- Working to build the RAG for retreiving recipies data from pinecone --- Knowldge Based 
+- Working on the GPT Integeration module 
 - Currently custom llm api endpoint not possible with h eygen.
 - It uses webrtc to their server to fetch the stream events(audio) and uses stream event to handle speech on their end.
 - GPT-4o is being used for interactive avatar when we provide the api key.
 - The solution for now is to use the default web ui of heygen to add knowledge base and prompt strucutre to use the interactive avatar.
 but it has limit of knowledge base size.
-- Spanish Avatar in the HeyGen --- In-Progress
+- Spanish Avatar in the HeyGen 
 
 ## Updates and Delivered 
-- Design the framework for whole project--- Done
-- PineCone dataset accessed and tested---Done
-- Integerate the OpenAI API ---- Done
-- HeyGen login successfully and waiting for the credits in account---Done
-- Tested the Flask App with HeyGen Trial Token to complete POC --- Done
-- Working to build the knowledge based for retreiving recipies data from pinecone --- Done
-- Spanish Avatar with custom vidoe developed and integereated with pinecone --- Done
+- Design the framework for whole project
+- PineCone dataset accessed and tested
+- Integerate the OpenAI API 
+- HeyGen login successfully and waiting for the credits in account
+- Tested the Flask App with HeyGen Trial Token to complete POC 
+- Working to build the knowledge based for retreiving recipies data from pinecone 
+- Spanish Avatar with custom vidoe developed and integereated with pinecone 
   
 
 ### Heygen SDK
