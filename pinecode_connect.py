@@ -2,7 +2,7 @@ from pinecone.grpc import PineconeGRPC as Pinecone
 from pinecone import ServerlessSpec
 
 # Initialize a client
-pc = Pinecone(api_key='c8179f79-5b6b-4ff1-bcf7-1163df2f9055')
+pc = Pinecone(api_key='')
 
 # Create a serverless index
 index_name = "ikyeu"
