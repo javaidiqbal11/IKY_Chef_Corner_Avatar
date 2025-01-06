@@ -39,12 +39,12 @@ but it has limit of knowledge base size.
 
 ### Heygen SDK
 
-https://github.com/HeyGen-Official/StreamingAvatarSDK
+[HeyGen Official Website](https://github.com/HeyGen-Official/StreamingAvatarSDK)
 
-https://github.com/HeyGen-Official/InteractiveAvatarNextJSDemo
+[HeyGen Interactive Avatar](https://github.com/HeyGen-Official/InteractiveAvatarNextJSDemo)
 
-https://labs.heygen.com/interactive-avatar
-https://docs.google.com/document/d/1v7VXisC4FvhdEpD_Wj6v79LxoW5FaXVWdMLR-_wzkYU/edit?tab=t.0
+[HeyGen Interactive Avatar Labs](https://labs.heygen.com/interactive-avatar)
+[Project Required Features and R&D](https://docs.google.com/document/d/1v7VXisC4FvhdEpD_Wj6v79LxoW5FaXVWdMLR-_wzkYU/edit?tab=t.0)
 
 
 
