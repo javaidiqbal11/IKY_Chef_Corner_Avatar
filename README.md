@@ -50,3 +50,9 @@ but it has limit of knowledge base size.
 
 ### Knowledge Base Generation
 I have added the script to generate the Knowledge Base from Pinecone for HeyGen.
+
+## Interactive Avatars 
+01	HeyGen Interactive Avatar
+02	DeepBrain Interactive Avatar
+03	Akool Streaming Avatar
+04 	Synthesia Avatar
